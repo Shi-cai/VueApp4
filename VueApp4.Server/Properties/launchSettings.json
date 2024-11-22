@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProjectName": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:7150",
+      "sslPort": 7151
+    }
+  }
+}
+

@@ -1,0 +1,6 @@
+@VueApp4.Server_HostAddress = http://localhost:7105
+
+GET {{VueApp4.Server_HostAddress}}/HelloWorld/
+Accept: application/json
+
+###
